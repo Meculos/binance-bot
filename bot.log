@@ -1,0 +1,17 @@
+INFO:root:Placing order: BTCUSDT BUY MARKET 0.001 None
+ERROR:root:Error placing order: APIError(code=-4013): Price less than min price.
+ERROR:root:Error placing order: APIError(code=-4013): Price less than min price.
+ERROR:root:Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+INFO:root:Placing order: BTCUSDT BUY LIMIT 0.004 30000.0
+INFO:root:Placing order: BTCUSDT SELL MARKET 0.003 None
+2025-07-27 20:51:08 [INFO] Placing order: BTCUSDT SELL STOP_LIMIT 0.004 30000.0
+2025-07-27 21:19:54 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
+2025-07-27 21:26:16 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
+2025-07-27 21:28:48 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
+2025-07-27 21:29:36 [INFO] Placing order: BTCUSDT BUY LIMIT 0.004 30000.0 None
+2025-07-27 21:34:35 [ERROR] Error placing order: APIError(code=-1102): Mandatory parameter 'symbol' was not sent, was empty/null, or malformed.
+2025-07-27 21:34:55 [ERROR] Error placing order: APIError(code=-2021): Order would immediately trigger.
+2025-07-27 21:35:10 [INFO] Placing order: BTCUSDT SELL STOP_LIMIT 0.004 30000.0 40000.0
+2025-07-27 21:39:34 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
+2025-07-27 21:45:50 [ERROR] Error placing order: APIError(code=-1121): Invalid symbol.
+2025-07-27 21:46:07 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None

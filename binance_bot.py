@@ -83,7 +83,7 @@ if __name__ == "__main__":
 
     root = tk.Tk()
     root.title("Binance Futures Order Bot")
-    root.geometry("400x350")  # Wider window
+    root.geometry("400x350")
 
     default_font = ("Segoe UI", 10)
 

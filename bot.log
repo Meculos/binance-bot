@@ -15,3 +15,5 @@ INFO:root:Placing order: BTCUSDT SELL MARKET 0.003 None
 2025-07-27 21:39:34 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
 2025-07-27 21:45:50 [ERROR] Error placing order: APIError(code=-1121): Invalid symbol.
 2025-07-27 21:46:07 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
+2025-07-28 07:11:03 [INFO] Placing order: BTCUSDT BUY MARKET 1.0 None None
+2025-07-28 07:11:30 [INFO] Placing order: BTCUSDT BUY MARKET 0.001 None None
